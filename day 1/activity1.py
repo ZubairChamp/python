@@ -1,0 +1,5 @@
+print("my name is zubair")
+print(7)
+print(True)
+print("hello",7)
+print("hello python \n")
