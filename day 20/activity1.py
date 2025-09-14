@@ -1,0 +1,9 @@
+emptylist=[]
+print()
+numbers=[6,7]
+print(numbers)
+product=[4,5,6,7]*4
+print(product)
+list1=[100,200,300,400,500]
+reverslist1=list1[::-1]
+print(reverslist1)
