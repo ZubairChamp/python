@@ -1,0 +1,6 @@
+tuple1=("zubair",67,True,67.67)
+tuple1=tuple1+(6,7)
+print(tuple1)
+tuple2=(6,7,6,7,6,7,6,7)
+print(tuple2.count(7))
+print(tuple1[0:6])
