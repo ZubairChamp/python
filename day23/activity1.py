@@ -1,0 +1,9 @@
+myset={1,2,3}
+print(myset)
+myset1={1.0,"zubair",True,4}
+print(myset1)
+myset2={1,2,2,3,4,1}
+print(myset2)
+myset3=set([1,2,3,4])
+myset3.pop()
+print(myset3)
